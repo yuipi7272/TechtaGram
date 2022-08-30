@@ -290,6 +290,9 @@
 				DEVELOPMENT_TEAM = LT4NM7A4VY;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = TechtaGram/Info.plist;
+				INFOPLIST_KEY_NSCameraUsageDescription = "アプリ内で編集する写真を取るためにカメラを起動します";
+				INFOPLIST_KEY_NSPhotoLibraryAddUsageDescription = "編集した画像をフォトライブラリに保存します";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "アプリ内で編集する画像をフォトライブラリから呼び出します";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -300,7 +303,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = app.ogawa.youpi.TechtaGram;
+				PRODUCT_BUNDLE_IDENTIFIER = app.ogawa.youpi.Renda;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -318,6 +321,9 @@
 				DEVELOPMENT_TEAM = LT4NM7A4VY;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = TechtaGram/Info.plist;
+				INFOPLIST_KEY_NSCameraUsageDescription = "アプリ内で編集する写真を取るためにカメラを起動します";
+				INFOPLIST_KEY_NSPhotoLibraryAddUsageDescription = "編集した画像をフォトライブラリに保存します";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "アプリ内で編集する画像をフォトライブラリから呼び出します";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -328,7 +334,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = app.ogawa.youpi.TechtaGram;
+				PRODUCT_BUNDLE_IDENTIFIER = app.ogawa.youpi.Renda;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
